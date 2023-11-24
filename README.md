@@ -44,3 +44,6 @@
 </ul>
 
 # Class Diagram
+![Observer Design Pattern](https://github.com/RonanSoriano/observerPattern/assets/142371669/b761770b-b136-4fb2-aee0-f6bb15368dfc)
+
+
